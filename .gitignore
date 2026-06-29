@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Skills written at runtime by the 06 demo
+06-agent-skills/skills/
+
+# Scratch / local notes
+abc.txt
+
+# Local-only reference (distribution + release playbooks) — not for the public repo
+POST.md
+RELEASE.md
+
+# OS
+.DS_Store
